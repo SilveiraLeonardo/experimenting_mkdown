@@ -22,7 +22,21 @@ LINE: 33
 
 CODE:
 
-``` 32 # Let's avoid the file corruption race condition! 33 os.system( 34 "mv " + 35 uploaded_file.temporary_file_path() + 36 " " + 37 "%s/%s" % 38 (upload_dir_path, 39 title)) 40 ```
+```generic
+
+
+32     # Let's avoid the file corruption race condition!
+33     os.system(
+34         "mv " +
+35         uploaded_file.temporary_file_path() +
+36         " " +
+37         "%s/%s" %
+38         (upload_dir_path,
+39          title))
+40 
+
+
+```
 
 USEFUL RESOURCES:
 
@@ -140,7 +154,16 @@ LINE: 184
 
 CODE:
 
-``` 183 curs.execute( 184 "insert into taskManager_file ('name','path','project_id') values ('%s','%s',%s)" % 185 (name, upload_path, project_id)) 186 ```
+```generic
+
+
+183             curs.execute(
+184                 "insert into taskManager_file ('name','path','project_id') values ('%s','%s',%s)" %
+185                 (name, upload_path, project_id))
+186 
+
+
+```
 
 USEFUL RESOURCES:
 
