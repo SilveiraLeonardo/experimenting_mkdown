@@ -22,8 +22,6 @@ LINE: 33
 
 CODE:
 
-```generic
-
 ```
 32     # Let's avoid the file corruption race condition!
 33     os.system(
@@ -34,8 +32,6 @@ CODE:
 38         (upload_dir_path,
 39          title))
 40 
-
-```
 ```
 
 USEFUL RESOURCES:
