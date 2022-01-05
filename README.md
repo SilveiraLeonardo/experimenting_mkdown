@@ -86,7 +86,7 @@ SEVERITY: Medium
 
 RECOMMENDED TIME TO RESOLVE THE ISSUE: 90 days
 
-IMPACT: No impact provided days
+IMPACT: No impact provided
 
 COMPONENT NAME: apk-tools - COMPONENT VERSION: 2.10.4-r3
 
@@ -106,7 +106,7 @@ SEVERITY: Medium
 
 RECOMMENDED TIME TO RESOLVE THE ISSUE: 90 days
 
-IMPACT: No impact provided days
+IMPACT: No impact provided
 
 COMPONENT NAME: apk-tools - COMPONENT VERSION: 2.10.4-r3
 
@@ -126,7 +126,7 @@ SEVERITY: Medium
 
 RECOMMENDED TIME TO RESOLVE THE ISSUE: 90 days
 
-IMPACT: No impact provided days
+IMPACT: No impact provided
 
 COMPONENT NAME: busybox - COMPONENT VERSION: 1.31.1-r9
 
@@ -177,7 +177,7 @@ SEVERITY: Low
 
 RECOMMENDED TIME TO RESOLVE THE ISSUE: 120 days
 
-IMPACT: No impact provided days
+IMPACT: No impact provided
 
 COMPONENT NAME: musl - COMPONENT VERSION: 1.1.24-r2
 
@@ -211,7 +211,7 @@ TITLE: Hard Coded High Entropy In: test_all.py
 
 SEVERITY: Info
 
-IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code. days
+IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code.
 
 MITIGATION: Secrets and passwords should be stored in a secure vault and/or secure storage.
 
@@ -223,7 +223,7 @@ TITLE: Hard Coded High Entropy In: truffleHog/truffleHog.py
 
 SEVERITY: Info
 
-IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code. days
+IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code.
 
 MITIGATION: Secrets and passwords should be stored in a secure vault and/or secure storage.
 
@@ -235,7 +235,7 @@ TITLE: Hard Coded High Entropy In: tests.py
 
 SEVERITY: Info
 
-IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code. days
+IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code.
 
 MITIGATION: Secrets and passwords should be stored in a secure vault and/or secure storage.
 
@@ -247,7 +247,7 @@ TITLE: Hard Coded High Entropy In: truffleHog.py
 
 SEVERITY: Info
 
-IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code. days
+IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code.
 
 MITIGATION: Secrets and passwords should be stored in a secure vault and/or secure storage.
 
@@ -259,7 +259,7 @@ TITLE: Hard Coded High Entropy In: Temp/Nothing
 
 SEVERITY: Info
 
-IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code. days
+IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code.
 
 MITIGATION: Secrets and passwords should be stored in a secure vault and/or secure storage.
 
@@ -271,7 +271,7 @@ TITLE: Hard Coded High Entropy In: secretFile.txt
 
 SEVERITY: Info
 
-IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code. days
+IMPACT: This weakness can lead to the exposure of resources or functionality to unintended actors, possibly providing attackers with sensitive information or even execute arbitrary code.
 
 MITIGATION: Secrets and passwords should be stored in a secure vault and/or secure storage.
 
